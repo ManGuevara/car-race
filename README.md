@@ -40,4 +40,4 @@ root                    (project root folder)
 ## Authors
 ---
 * Manuel Guevara
-*Ibraim
+*Ibraim Calvo
